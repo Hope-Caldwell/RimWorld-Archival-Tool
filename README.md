@@ -71,22 +71,3 @@ All output is written to `~/Documents/RimWorldArchivalTool/`. The final archive 
 ```
 
 This is a zstd-compressed tar containing four inner `.tar.zstd` archives, one for each component. There is no automated restore — you'll need to extract them manually back to their original locations.
-
----
-
-## Notes & Warnings
-
-- **This script is CPU-intensive.** DDS compression especially — don't expect to game or do heavy tasks while it's running.
-- You will be given the option to **delete your local mods folder** after archiving. This is irreversible — be sure the archive completed successfully before agreeing.
-- It's recommended to use [RimSort's](https://github.com/RimSort/RimSort) *"Convert Steam mod to local"* feature to move your mods into the local mods folder before running this script.
-- Do **not** use RimWorld, RimSort, or Steam while the script is running.
-
----
-
-## License
-
-## This software is provided as-is, without any warranty. Use at your own risk — I am not responsible for any data loss or damage resulting from its use.
-
-# This github repository and its contents are licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).
-
-
