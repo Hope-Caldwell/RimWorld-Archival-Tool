@@ -1,5 +1,8 @@
 # RimWorld Archival Tool
 
+# This software is provided as-is, without any warranty. Use at your own risk — I am not responsible for any data loss or damage resulting from its use.
+# This github repository and its contents are licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).
+
 the readme is written by claude, the script is not. known bugs: all preview.png files also get the dds processing, causing some in game issues (non game breaking). I'll fix that once I visit this script again.
 dont expect updates often because this is a finished script, all that will be done are fixing bugs.
 
@@ -82,4 +85,8 @@ This is a zstd-compressed tar containing four inner `.tar.zstd` archives, one fo
 
 ## License
 
-Do whatever you want with it.
+## This software is provided as-is, without any warranty. Use at your own risk — I am not responsible for any data loss or damage resulting from its use.
+
+# This github repository and its contents are licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).
+
+
