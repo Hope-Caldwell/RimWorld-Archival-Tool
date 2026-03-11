@@ -1,6 +1,7 @@
 # RimWorld Archival Tool
 
-the readme is written by claude, the script is not. known bugs: none
+the readme is written by claude, the script is not. known bugs: all preview.png files also get the dds processing, causing some in game issues (non game breaking). I'll fix that once I visit this script again.
+dont expect updates often because this is a finished script, all that will be done are fixing bugs.
 
 claude section starting from here onwards:
 
